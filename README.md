@@ -2,6 +2,14 @@
 
 LanShot 是一款轻量的 Windows 局域网截图工具。程序常驻系统托盘，不占用任务栏；按下 **Ctrl + Alt + A** 后，它会立即截取整个桌面，并把截图发送到同一局域网内已配对的手机浏览器。
 
+## 直接下载
+
+前往 [LanShot v1.0.0 Release](https://github.com/1550895476/LanShot/releases/tag/v1.0.0) 下载：
+
+- [`LanShot.exe`](https://github.com/1550895476/LanShot/releases/download/v1.0.0/LanShot.exe)：可直接运行的 Windows 程序
+- [`SHA256SUMS.txt`](https://github.com/1550895476/LanShot/releases/download/v1.0.0/SHA256SUMS.txt)：文件完整性校验值
+
+> 仓库当前为私有仓库，需要登录获授权的 GitHub 账户才能下载。
 ## 功能特点
 
 - **全桌面截图**：一次截取整个桌面，多显示器环境会包含所有显示器。
@@ -138,3 +146,4 @@ LanShot/
 ## License
 
 本项目暂未指定开源许可证。在添加许可证前，代码默认保留所有权利。
+
